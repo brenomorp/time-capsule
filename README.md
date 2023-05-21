@@ -19,27 +19,47 @@ O Time Capsule é uma aplicação web e mobile que permite aos usuários criar c
 
 ### **Web**
 
+<br>
+
 **Home**
-<img src='./assets/home-web.png'></img>
+
+![home-web](https://github.com/brenomorp/time-capsule/assets/85278831/e3fd36c5-391b-4265-973f-234c1e8f6d09)
+
+<br>
 
 **Memories**
-<img src='./assets/memories-web.png'></img>
+
+![memories-web](https://github.com/brenomorp/time-capsule/assets/85278831/38d383b9-a832-4193-b8c2-8f55f6061baf)
+
+<br>
 
 **Create Memory**
-<img src='./assets/create-filled-web.png'></img>
+
+![create-filled-web](https://github.com/brenomorp/time-capsule/assets/85278831/c5b7cf0d-98cd-4d89-baf2-3e1de62fbbd0)
+
+<br>
 
 ### **Mobile**
 
+<br>
+
 **Home**
-<img src='./assets/home-mobile.png' style='display: block; margin: 0px auto;'></img>
+
+![home-mobile](https://github.com/brenomorp/time-capsule/assets/85278831/402aa9a5-6a62-4853-867b-e46bbd71bcd1)
+
+<br>
 
 **Memories**
 
-<img src='./assets/memories-mobile.png' style='display: block; margin: 0px auto;'></img>
+![memories-mobile](https://github.com/brenomorp/time-capsule/assets/85278831/ae4a1331-83fa-4abb-8436-d6f5ac99cb00)
+
+<br>
 
 **Create Memory**
 
-<img src='./assets/create-mobile.png' style='display: block; margin: 0px auto;'></img>
+![create-mobile](https://github.com/brenomorp/time-capsule/assets/85278831/f6eaf74e-4b53-4014-b1b0-2b618afd9c98)
+
+<br>
 
 ### **Créditos**
 
