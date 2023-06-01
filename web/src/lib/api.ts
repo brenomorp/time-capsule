@@ -1,5 +1,5 @@
 import axios from 'axios'
 
 export const api = axios.create({
-  baseURL: 'http://10.0.0.171:3333',
+  baseURL: 'https://time-capsule-wheat.vercel.app/',
 })
